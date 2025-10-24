@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe783492-586a-4baf-95fb-2c91afc26507" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/angular.io-example/.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/angular.io-example/.tsbuildinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_common.js" beforeDir="false" afterPath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_common.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_common.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_common_http.js" beforeDir="false" afterPath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_common_http.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_common_http.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_common_http.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_core.js" beforeDir="false" afterPath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_core.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_core.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_forms.js" beforeDir="false" afterPath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_forms.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_forms.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_forms.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_platform-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_platform-browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_platform-browser.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_platform-browser.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_router.js" beforeDir="false" afterPath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_router.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/@angular_router.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/chunk-445ICHS2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/chunk-445ICHS2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/chunk-6IDJCRVS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/chunk-6IDJCRVS.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/chunk-BCZMXVKZ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/chunk-BCZMXVKZ.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/chunk-DGSSWR5S.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/chunk-DGSSWR5S.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/chunk-HGVD6RJX.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/chunk-HGVD6RJX.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/chunk-RDY66B4C.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/chunk-RDY66B4C.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/chunk-YIAFZ24P.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/chunk-YIAFZ24P.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/rxjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/rxjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/rxjs.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/rxjs.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/rxjs_operators.js" beforeDir="false" afterPath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/rxjs_operators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/rxjs_operators.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/kazhistorywiki-frontend/.angular/cache/17.1.3/vite/deps/rxjs_operators.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kazhistorywiki-frontend/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/kazhistorywiki-frontend/angular.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2fFaQlgKcfZkQ0i5FfM0xBOCrDw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "nurym",
+    "last_opened_file_path": "C:/Users/пк/WebstormProjects/WEB_Project",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe783492-586a-4baf-95fb-2c91afc26507" name="Changes" comment="" />
+      <created>1713399266029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713399266029</updated>
+      <workItem from="1713399267141" duration="60000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
