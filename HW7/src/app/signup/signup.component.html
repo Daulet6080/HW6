@@ -1,0 +1,17 @@
+<h2>Регистрация</h2>
+
+<form [formGroup]="form" (ngSubmit)="submit()">
+  <label>Email</label>
+  <input formControlName="email" />
+
+  <label>Пароль</label>
+  <input type="password" formControlName="password" />
+
+  <div *ngIf="error">{{ error }}</div>
+
+  <button type="submit" [disabled]="loading">
+    {{ loading ? 'Создаём...' : 'Создать аккаунт' }}
+  </button>
+</form>
+
+<p>Уже есть аккаунт? <a routerLink="/login">Войти</a></p>

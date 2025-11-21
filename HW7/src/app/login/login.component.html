@@ -1,0 +1,27 @@
+<div class="login-container">
+  <div class="login-card">
+    <h2>Вход</h2>
+
+    <form [formGroup]="form" (ngSubmit)="submit()">
+      <div class="form-group">
+        <label>Email</label>
+        <input class="form-input" formControlName="email" placeholder="Введите email" />
+      </div>
+
+      <div class="form-group">
+        <label>Пароль</label>
+        <input class="form-input" type="password" formControlName="password" placeholder="Введите пароль" />
+      </div>
+
+      <div *ngIf="error" class="error">{{ error }}</div>
+
+      <button type="submit" class="submit-btn" [disabled]="loading">
+        {{ loading ? 'Входим...' : 'Войти' }}
+      </button>
+    </form>
+
+    <div class="switch-mode">
+      Нет аккаунта? <a routerLink="/signup" class="switch-btn">Регистрация</a>
+    </div>
+  </div>
+</div>

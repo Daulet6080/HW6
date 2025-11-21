@@ -1,0 +1,12 @@
+<h2>Профиль</h2>
+
+<div *ngIf="user$ | async as user; else noUser">
+  <p>Email: {{ user.email }}</p>
+  <p>UID: {{ user.uid }}</p>
+
+  <button (click)="logout()">Выйти</button>
+</div>
+
+<ng-template #noUser>
+  <p>Нет данных — скорее всего вы не вошли в аккаунт.</p>
+</ng-template>
